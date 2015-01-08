@@ -1,0 +1,25 @@
+{
+  "name": "buaiti-web-app",
+  "version": "0.0.1",
+  "homepage": "https://github.com/buaiti/buaiti-web-app",
+  "authors": [
+    "ccpony86 <19461718@qq.com>"
+  ],
+  "description": "buaiti web application",
+  "keywords": [
+    "buaiti"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "three.js": "*",
+    "angularjs": "~1.3.8",
+    "jquery": "~2.1.3"
+  }
+}
